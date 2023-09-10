@@ -248,7 +248,7 @@ footer h2{
     100%{transform: scale(1.1);}
 }
 
-@media (max-width:480px){
+@media (max-width:780px){
     header{
         padding: 20px 0;
         justify-content: space-around;
@@ -297,10 +297,6 @@ footer h2{
         padding: 20px;
         display: flex;
         justify-content: center;
-    }
-
-    .productos-estrellas{
-        flex-direction: column;
     }
 
     .first-fcontainer{
